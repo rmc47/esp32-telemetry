@@ -789,7 +789,7 @@ F 3 "~" H 10350 5500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	9950 6050 8950 6050
+	9950 6050 9650 6050
 $Comp
 L Device:C C1
 U 1 1 5E45C963
@@ -850,4 +850,9 @@ Wire Wire Line
 Connection ~ 7350 3250
 Wire Wire Line
 	7350 3250 7750 3250
+Wire Wire Line
+	9650 5900 9650 6050
+Connection ~ 9650 6050
+Wire Wire Line
+	9650 6050 8950 6050
 $EndSCHEMATC
