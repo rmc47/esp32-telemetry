@@ -121,7 +121,7 @@ Wire Wire Line
 Wire Wire Line
 	2000 2950 2200 2950
 Wire Wire Line
-	1550 3250 2200 3250
+	1550 3250 1850 3250
 Wire Wire Line
 	2200 3050 2650 3050
 $Comp
@@ -553,7 +553,7 @@ DS18B20-Data
 Wire Wire Line
 	2200 3050 2200 3250
 Wire Wire Line
-	1550 3150 2650 3150
+	1550 3150 1850 3150
 Wire Wire Line
 	1250 3650 1250 3550
 Wire Wire Line
@@ -855,4 +855,30 @@ Wire Wire Line
 Connection ~ 9650 6050
 Wire Wire Line
 	9650 6050 8950 6050
+$Comp
+L Device:R R12
+U 1 1 5E3B61A4
+P 2000 3150
+F 0 "R12" V 1793 3150 50  0000 C CNN
+F 1 "27R" V 1884 3150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1930 3150 50  0001 C CNN
+F 3 "~" H 2000 3150 50  0001 C CNN
+	1    2000 3150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2150 3150 2650 3150
+$Comp
+L Device:R R13
+U 1 1 5E3B6896
+P 2000 3250
+F 0 "R13" V 2115 3250 50  0000 C CNN
+F 1 "27R" V 2206 3250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 1930 3250 50  0001 C CNN
+F 3 "~" H 2000 3250 50  0001 C CNN
+	1    2000 3250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2150 3250 2200 3250
 $EndSCHEMATC
