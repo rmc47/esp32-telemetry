@@ -21,6 +21,7 @@ F 0 "U1" H 2950 1442 50  0000 C CNN
 F 1 "NCP1117-3.3_SOT223" H 2950 1351 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 2950 1400 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF" H 3050 950 50  0001 C CNN
+F 4 "Farnell-2534283" H 2950 1200 50  0001 C CNN "Order code"
 	1    2950 1200
 	1    0    0    -1  
 $EndComp
@@ -91,6 +92,7 @@ F 0 "J1" H 1307 3617 50  0000 C CNN
 F 1 "USB_B_Micro" H 1307 3526 50  0000 C CNN
 F 2 "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" H 1400 3100 50  0001 C CNN
 F 3 "~" H 1400 3100 50  0001 C CNN
+F 4 "Farnell-1568022" H 1250 3150 50  0001 C CNN "Order code"
 	1    1250 3150
 	1    0    0    -1  
 $EndComp
@@ -153,6 +155,7 @@ F 0 "U2" H 3350 4031 50  0000 C CNN
 F 1 "FT230XS" H 3350 3940 50  0000 C CNN
 F 2 "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm" H 4350 2550 50  0001 C CNN
 F 3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" H 3350 3150 50  0001 C CNN
+F 4 "Farnell-2081321" H 3350 3150 50  0001 C CNN "Order code"
 	1    3350 3150
 	1    0    0    -1  
 $EndComp
@@ -262,6 +265,7 @@ F 0 "SW2" H 7550 1817 50  0000 C CNN
 F 1 "Prog" H 7550 1726 50  0000 C CNN
 F 2 "Button_Switch_SMD:SW_SPST_PTS645" H 7550 1950 50  0001 C CNN
 F 3 "~" H 7550 1950 50  0001 C CNN
+F 4 "Farnell-2320087" H 7550 1950 50  0001 C CNN "Order code"
 	1    7550 1950
 	-1   0    0    -1  
 $EndComp
@@ -369,6 +373,7 @@ F 0 "U5" H 9850 2331 50  0000 C CNN
 F 1 "LM75B" H 9850 2240 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 9850 1650 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm75b.pdf" H 9850 1650 50  0001 C CNN
+F 4 "Farnell-2841138" H 9850 1650 50  0001 C CNN "Order code"
 	1    9850 1650
 	1    0    0    -1  
 $EndComp
@@ -621,6 +626,7 @@ F 0 "SW1" V 5046 3062 50  0000 R CNN
 F 1 "Reset" V 4955 3062 50  0000 R CNN
 F 2 "Button_Switch_SMD:SW_SPST_PTS645" H 5000 3150 50  0001 C CNN
 F 3 "~" H 5000 3150 50  0001 C CNN
+F 4 "Farnell-2320087" V 5000 3150 50  0001 C CNN "Order code"
 	1    5000 3150
 	0    -1   -1   0   
 $EndComp
@@ -685,6 +691,7 @@ F 0 "Q1" H 9754 5746 50  0000 L CNN
 F 1 "2N7002" H 9754 5655 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 9750 5625 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 9550 5700 50  0001 L CNN
+F 4 "Farnell-2842564" H 9550 5700 50  0001 C CNN "Order code"
 	1    9550 5700
 	1    0    0    -1  
 $EndComp
